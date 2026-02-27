@@ -1,7 +1,6 @@
 ---
 title: "LightRefine-PCXR: A Lightweight Refinement Framework for Efficient Medical Device Suppression in Pediatric Chest X-Rays"
 collection: publications
-status: Accepted (poster)
 category: conferences
 permalink: /publication/2026-02-13-lightrefine-pcxr
 excerpt: "LightRefine-PCXR is a lightweight, anatomy-aware refinement framework for suppressing medical devices in pediatric chest X-rays, providing high-quality restoration with low training cost and limited pediatric data for clinical deployment."
