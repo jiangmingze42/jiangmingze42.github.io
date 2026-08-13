@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising senior in Computer Science at Tsinghua University. My research has exposed me to a range of problems in artificial intelligence, computer vision, and biomedical imaging through work at MIT and the University of Notre Dame. I am particularly interested in research that connects methodological advances with meaningful scientific questions, and in how computational models can provide better ways to measure, represent, and understand complex data.
+I am a rising senior in Computer Science at Tsinghua University. My research has exposed me to a range of problems in artificial intelligence, computer vision, and biomedical imaging through work at MIT and the University of Notre Dame. I am particularly interested in research that connects methodological advances with meaningful scientific questions, and in how machine learning can provide better ways to measure, represent, and understand complex data.
 
 I am actively seeking PhD opportunities for Fall 2027.
 
