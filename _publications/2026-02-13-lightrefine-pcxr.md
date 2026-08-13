@@ -1,12 +1,16 @@
 ---
 title: "LightRefine-PCXR: A Lightweight Refinement Framework for Efficient Medical Device Suppression in Pediatric Chest X-Rays"
 collection: publications
+status: Accepted at
 category: conferences
 permalink: /publication/2026-02-13-lightrefine-pcxr
 excerpt: "LightRefine-PCXR is a lightweight, anatomy-aware refinement framework for suppressing medical devices in pediatric chest X-rays, providing high-quality restoration with low training cost and limited pediatric data for clinical deployment."
 date: 2026-02-13
 venue: "Medical Imaging with Deep Learning (MIDL)"
 paperurl: "https://openreview.net/pdf?id=nixf7QdyXX"
+codeurl: "https://github.com/jiangmingze42/LightRefine-PCXR"
+teaser_image: "LightRefine-PCXR.png"
+authors_short: "Mingze Jiang, Xueyang Li, John Kheir, Alec Girten, and Yiyu Shi"
 citation: "Mingze Jiang, Xueyang Li, John Kheir, Alec Girten, and Yiyu Shi. (2026). \"LightRefine-PCXR: A Lightweight Refinement Framework for Efficient Medical Device Suppression in Pediatric Chest X-Rays.\" <i>Medical Imaging with Deep Learning (MIDL)</i>."
 ---
 In pediatric chest radiography, indwelling support devices (e.g., tubes and lines) are ubiq

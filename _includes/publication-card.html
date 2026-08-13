@@ -1,0 +1,17 @@
+<article class="publication-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="publication-card__teaser" aria-hidden="true">
+    {% if post.teaser_image %}<img src="{{ post.teaser_image | prepend: '/images/' | prepend: base_path }}" alt="">{% endif %}
+  </div>
+  <div class="publication-card__body">
+    <h3 class="publication-card__title" itemprop="headline">{{ post.title }}</h3>
+    {% if post.authors_short %}<p class="publication-card__authors">{{ post.authors_short | replace: "Mingze Jiang", "<strong>Mingze Jiang</strong>" }}</p>{% endif %}
+    <p class="publication-card__venue">
+      {% if post.status %}{{ post.status }}{% else %}Published in{% endif %}
+      {% if post.venue %} <i>{{ post.venue }}</i>{% endif %}
+      {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    </p>
+    {% if post.excerpt %}<p class="publication-card__excerpt">{{ post.excerpt }}</p>{% endif %}
+    {% if post.paperurl %}<a class="publication-card__link" href="{{ post.paperurl }}">[Paper]</a>{% endif %}
+    {% if post.codeurl %}<a class="publication-card__link" href="{{ post.codeurl }}">[Code]</a>{% endif %}
+  </div>
+</article>

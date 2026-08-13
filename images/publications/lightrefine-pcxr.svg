@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+  <title id="title">LightRefine-PCXR schematic</title>
+  <desc id="desc">A clean schematic showing a chest image refined by an anatomy-aware model.</desc>
+  <rect width="560" height="360" rx="18" fill="#edf4f6"/>
+  <rect x="34" y="34" width="190" height="292" rx="12" fill="#c7dce2"/>
+  <ellipse cx="129" cy="177" rx="70" ry="105" fill="#eff7f8" stroke="#6f9caf" stroke-width="8"/>
+  <path d="M129 84v184M78 156c28-26 74-26 102 0M78 205c31 20 71 20 102 0" fill="none" stroke="#8bb2bd" stroke-width="7" stroke-linecap="round"/>
+  <path d="M244 180h67" stroke="#547f90" stroke-width="8" stroke-linecap="round"/>
+  <path d="m292 157 28 23-28 23" fill="none" stroke="#547f90" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="344" y="76" width="178" height="208" rx="14" fill="#fff" stroke="#9bbcc5" stroke-width="5"/>
+  <path d="M433 108v145M390 158c25-23 61-23 86 0M390 205c25 17 61 17 86 0" fill="none" stroke="#6f9caf" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="433" cy="180" r="68" fill="none" stroke="#31566d" stroke-width="4" stroke-dasharray="8 8"/>
+</svg>

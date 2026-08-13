@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+  <title id="title">CRC-Router schematic</title>
+  <desc id="desc">A schematic showing risk-aware routing between medical AI agents.</desc>
+  <rect width="560" height="360" rx="18" fill="#eef3f4"/>
+  <path d="M92 180h91M277 180h91M463 180h18" stroke="#597b8a" stroke-width="8" stroke-linecap="round"/>
+  <path d="m166 157 27 23-27 23M351 157l27 23-27 23" fill="none" stroke="#597b8a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="34" y="125" width="85" height="110" rx="14" fill="#c8d9de" stroke="#597b8a" stroke-width="5"/>
+  <rect x="201" y="88" width="116" height="184" rx="16" fill="#fff" stroke="#31566d" stroke-width="6"/>
+  <rect x="402" y="125" width="85" height="110" rx="14" fill="#dce8e9" stroke="#597b8a" stroke-width="5"/>
+  <circle cx="76" cy="166" r="18" fill="#31566d"/><circle cx="76" cy="204" r="18" fill="#8daeb6"/>
+  <path d="M233 138h52M233 180h52M233 222h35" stroke="#597b8a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M429 165h31M429 198h31" stroke="#31566d" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="445" cy="278" r="20" fill="#d79a65"/><path d="M437 278l7 7 12-15" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
