@@ -285,6 +285,15 @@ h1, h2, h3, h4, h5, h6,
 .archive__item-excerpt,
 .archive .page__meta { color: #626a72; }
 
+/* Keep prose blocks visually aligned while leaving headings and navigation untouched. */
+.page__content > p,
+.page__content > ul,
+.page__content > ol,
+.research-entry__content > p,
+.publication-card__excerpt {
+  text-align: justify;
+}
+
 .research-timeline {
   position: relative;
   display: flex;
