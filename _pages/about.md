@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at Tsinghua University. This website collects my research interests, publications, and other academic activities.
+I am a rising senior in Computer Science at Tsinghua University. My research has exposed me to a range of problems in artificial intelligence, computer vision, and biomedical imaging through work at MIT and the University of Notre Dame. I am particularly interested in research that connects methodological advances with meaningful scientific questions, and in how computational models can provide better ways to measure, represent, and understand complex data.
+
+I am actively seeking PhD opportunities for Fall 2027.
 
 You can find my [CV](/files/0227%20MingzeJiang_CV.pdf) here.
 
 ## Research
 
-My research interests lie at the intersection of artificial intelligence, computer vision, and biomedical imaging. I am particularly interested in developing robust, interpretable, and clinically reliable learning systems that can transform imperfect biomedical data into actionable evidence, with an emphasis on medical image restoration, multimodal understanding, and trustworthy decision-making under real-world variability.
+My research lies at the intersection of artificial intelligence, computer vision, and biomedical imaging. I am interested in developing computational methods that extract reliable and biologically meaningful information from complex biomedical data. More broadly, I hope to build learning systems that are not only accurate, but also scientifically interpretable and reliable in real-world biomedical settings.
 
 {% include research-timeline.html %}
 
