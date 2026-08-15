@@ -12,7 +12,7 @@ main:
     url: "#about"
 
   - title: "CV"
-    url: "/files/0227%20MingzeJiang_CV.pdf"
+    url: "/files/MingzeJiang_CV.pdf"
 
   - title: "Research"
     url: "#research"

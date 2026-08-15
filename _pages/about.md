@@ -12,7 +12,7 @@ I am a rising senior in Computer Science at Tsinghua University. My research has
 
 I am actively seeking PhD opportunities for Fall 2027.
 
-You can find my [CV](/files/0227%20MingzeJiang_CV.pdf) here.
+You can find my [CV](/files/MingzeJiang_CV.pdf) here.
 
 ## Research
 
