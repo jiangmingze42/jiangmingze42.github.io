@@ -6,6 +6,7 @@ category: conferences
 permalink: /publication/2026-02-13-lightrefine-pcxr
 excerpt: "LightRefine-PCXR is a lightweight, anatomy-aware refinement framework for suppressing medical devices in pediatric chest X-rays, providing high-quality restoration with low training cost and limited pediatric data for clinical deployment."
 date: 2026-02-13
+display_order: 1
 venue: "Medical Imaging with Deep Learning (MIDL)"
 paperurl: "https://openreview.net/pdf?id=nixf7QdyXX"
 codeurl: "https://github.com/jiangmingze42/LightRefine-PCXR"

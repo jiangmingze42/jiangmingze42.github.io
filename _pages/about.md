@@ -23,7 +23,7 @@ My research lies at the intersection of artificial intelligence, computer vision
 ## Publications
 
 {% for category in site.publication_category %}
-{% assign publications_sorted = site.publications | sort: "date" %}
+{% assign publications_sorted = site.publications | sort: "display_order" %}
 {% for post in publications_sorted %}
 {% if post.category != category[0] %}
 {% continue %}

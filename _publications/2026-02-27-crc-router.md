@@ -6,6 +6,7 @@ category: conferences
 permalink: /publication/2026-02-27-crc-router
 excerpt: "Risk-constrained routing framework for agentic medical AI systems."
 date: 2026-02-27
+display_order: 2
 venue: "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 paperurl: "https://arxiv.org/abs/2508.19322"
 teaser_image: "CRC.png"
