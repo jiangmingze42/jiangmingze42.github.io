@@ -8,7 +8,6 @@ excerpt: "Introduces a single-pulse volumetric FLIM approach that combines direc
 date: 2026-09-09
 display_order: 5
 venue: "eLight"
-teaser_image: "single-pulse-flim.svg"
+teaser_image: "single-pulse-flim.png"
 authors_short: "Jack Tomkiewicz, Federico Presutti, Tade Marozsak, Mingze Jiang, Jia Zhao, Hatoon Baazim, Hernandez Moura-Silva, Eliezer Calo, and Sixian You"
 ---
-
