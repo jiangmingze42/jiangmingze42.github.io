@@ -1,5 +1,5 @@
 ---
-title: "Single-pulse, label-free, volumetric lifetime microscopy with near photon-counting photon economy"
+title: "Single-Pulse, Label-Free, Volumetric Lifetime Microscopy with Near Photon-Counting Photon Economy"
 collection: publications
 status: Under review at
 category: conferences
