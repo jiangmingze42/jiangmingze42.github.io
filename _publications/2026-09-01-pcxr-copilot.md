@@ -1,6 +1,7 @@
 ---
 title: "PCXR-Copilot: Device-aware pediatric chest radiographic analysis with segmentation, suppression, and edema-related cues"
 collection: publications
+published: false
 status: Under review at
 category: conferences
 permalink: /publication/2026-09-01-pcxr-copilot
