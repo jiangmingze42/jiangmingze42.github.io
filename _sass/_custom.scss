@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6,
 
 .publication-card {
   display: grid;
-  grid-template-columns: 30% minmax(0, 1fr);
+  grid-template-columns: 27% minmax(0, 1fr);
   gap: 18px;
   margin: 0 0 1.45rem;
   padding: 0 0 1.25rem;
@@ -437,11 +437,14 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .publication-card__teaser {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
   align-self: center;
   min-height: 0;
   overflow: hidden;
   border-radius: 3px;
-  background: #edf3f4;
+  background: transparent;
 
   img { display: block; width: 100%; height: auto; }
 }
@@ -475,7 +478,7 @@ h1, h2, h3, h4, h5, h6,
     margin-left: 0;
   }
 
-  .publication-card { grid-template-columns: 30% minmax(0, 1fr); gap: 16px; }
+  .publication-card { grid-template-columns: 27% minmax(0, 1fr); gap: 16px; }
 
   .research-timeline { padding-left: 0; }
   .research-timeline::before { left: 100px; }
@@ -495,7 +498,7 @@ h1, h2, h3, h4, h5, h6,
   .page__title { font-size: 1.55rem; }
   .page__title--home { font-size: 1.2rem; }
   .publication-card { grid-template-columns: 1fr; gap: 12px; }
-  .publication-card__teaser { min-height: 96px; }
+  .publication-card__teaser { min-height: 0; width: 90%; max-width: 315px; justify-self: center; }
   .research-timeline { margin-top: 1.4rem; padding-left: 24px; }
   .research-timeline::before { left: 5px; }
   .research-entry { display: block; margin-bottom: 1.8rem; padding-left: 20px; }
